@@ -1,2 +1,0 @@
-# Gio
-snap academies repo
