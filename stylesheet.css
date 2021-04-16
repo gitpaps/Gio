@@ -1,5 +1,40 @@
-<style>
-  h2 {
-    color: red;
+    <style>
+      
+  body {
+    background-color: black;
+    color: white;
+    text-align: center;
+   }      
+  h3 {
+    text-align: left;
+    font-size: 25px;
   }
+      
+   .right-text-align {
+    text-align: right;
+  }
+      
+      
+  .white-text {
+    color: white;
+  }
+            
+  backgorund {
+    color: black;
+      }
+      
+   .white-text {
+    color: white;
+  }
+      
+    .smaller-image {
+    width: 300px;
+  }
+      
+    .thick-white-border {
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+  }
+      
 </style>
