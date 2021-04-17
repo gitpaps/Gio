@@ -1,11 +1,10 @@
     <style>
       
- 
-    background {
-    color: black;
+  body {
+    background-color: black;
     color: white;
-    text-align: center; 
-    }
+    text-align: center;
+   }  
 
   h3 {
     text-align: left;
