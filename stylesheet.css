@@ -5,14 +5,18 @@
     color: white;
     text-align: center;
    }  
-
+      
   h3 {
     text-align: left;
     font-size: 25px;
   }
       
-   .right-text-align {
+  .right-text-align {
     text-align: right;
+  }
+      
+  .left-text-align {
+    text-align: left;
   }
       
       
@@ -24,18 +28,37 @@
     color: black;
       }
       
-   .white-text {
+  .white-text {
     color: white;
   }
       
-    .smaller-image {
+  .smaller-image {
     width: 300px;
   }
       
-    .thick-white-border {
+  .thick-white-border {
     border-color: white;
     border-width: 10px;
     border-style: solid;
   }
+      
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+
+  .white-box {
+    background-color: white;
+    padding: 20px 40px 20px 40px;
+  }
+
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 20px 40px 20px 40px;
+  }
+      
       
 </style>
